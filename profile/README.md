@@ -2,10 +2,10 @@
 Fort Hays State University - Fall 2022 - CSCI 441 VA - Software Engineering
 
 ## Group Members
-- Dustin Threet []()
-- Hannah Carr []()
-- Justin Henley []()
-- Victor Munoz []()
+- Dustin Threet 
+- Justin Henley 
+- Victor Munoz 
+- ~~Hannah Carr~~
 
 ## Documents
 - [Project Proposal](https://drive.google.com/file/d/1FrU98wgH9FLsxeomwyrD00fDvVm02YQ6/view?usp=sharing)
